@@ -2,7 +2,7 @@
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Python,Django,MySql,Html,CSS,JavaScript,React
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach #murthazamurtu@gmail.com
+- 📫 How to reach murthazamurtu@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: ..............
 
