@@ -18,7 +18,7 @@
 - 🌱 I’m Currently Learning: Advanced Django patterns, microservices architecture
 - 📫 How to reach murthazamurtu@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: ..............
+- ⚡ Fun fact:When I'm not coding, you can find me experimenting with new workouts in the gym, or getting lost in the world of  books and movies. Oh, and I secretly believe my code runs faster when I play music in the background! 🎶
 
 <!---
 Md-Murthaza/Md-Murthaza is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
