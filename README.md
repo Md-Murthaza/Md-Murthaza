@@ -15,7 +15,7 @@
 
 
 
-- 🌱 I’m Currently Learning: Advanced Django patterns, microservices architecture
+- 🌱 I’m Currently Learning: Advanced Django patterns, microservices architecture,Full Stack Web Development.
 - 📫 How to reach murthazamurtu@gmail.com
 - 😄 Pronouns: he/him
 
